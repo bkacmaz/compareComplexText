@@ -1,0 +1,11 @@
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.exe
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.deps.json
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.runtimeconfig.json
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.runtimeconfig.dev.json
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.dll
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\bin\Debug\netcoreapp3.1\ReadableTextFile.pdb
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\obj\Debug\netcoreapp3.1\ReadableTextFile.csprojAssemblyReference.cache
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\obj\Debug\netcoreapp3.1\ReadableTextFile.AssemblyInfoInputs.cache
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\obj\Debug\netcoreapp3.1\ReadableTextFile.AssemblyInfo.cs
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\obj\Debug\netcoreapp3.1\ReadableTextFile.dll
+C:\Users\flutter\Desktop\mdsoft\ReadableTextFile\ReadableTextFile\obj\Debug\netcoreapp3.1\ReadableTextFile.pdb
